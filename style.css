@@ -320,9 +320,12 @@ footer p{
      font-weight: bolder;
     }
 
+/* ロゴ */
     .logo{
         width:80px;
         margin-top: 14px;
+        text-align: left;
+        display: block;
     }
 
 /* HEADER */
@@ -335,11 +338,6 @@ footer p{
 
     }
 
-    .logo{
-        text-align: left;
-       
-        display: block;
-     }
 
 /* HOME */
     .home-content{
@@ -420,3 +418,4 @@ footer p{
 
 
 }
+
