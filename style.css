@@ -29,7 +29,7 @@ img{
 }
 #home{
     background-color: #0568d1;
-    background-image: url(../images/main-bg.jpg);
+    background-image: url(images/main-bg.jpg);
     min-height: 100vh;
 }
 #home .page-title{
