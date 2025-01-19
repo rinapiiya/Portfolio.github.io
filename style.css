@@ -11,6 +11,7 @@ body{
     color: #111;
     width: 100%;
     max-width: 100%;
+　　margin: auto;
 }
 a{
     text-decoration: none;
