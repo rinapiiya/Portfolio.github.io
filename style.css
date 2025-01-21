@@ -309,7 +309,7 @@ footer p{
 /* 大きな背景画像
 ------------------------------ */
 .big-bg{
-    width: 430px;
+    width: 100%;
     object-fit: cover;
     object-position: 50% 0%;
     
