@@ -314,6 +314,11 @@ footer p{
     object-position: 50% 0%;
     
 }
+#home{
+    background-color: #0568d1;
+    background-image: url(../images/main-bg2.jpg);
+
+    min-height: 100vh;
 
 /* ページタイトルのフォント */
     .page-title{
