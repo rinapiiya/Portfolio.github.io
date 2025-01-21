@@ -29,7 +29,7 @@ img{
 }
 #home{
     background-color: #0568d1;
-    background-image: url(images/main-bg.jpg);
+    background-image: url(../images/main-bg.jpg);
 
     min-height: 100vh;
 }
@@ -311,6 +311,7 @@ footer p{
 .big-bg{
     width: 100%;
     object-fit: cover;
+    object-position: 50% 0%;
     
 }
 
